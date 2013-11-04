@@ -1,2 +1,2 @@
 Aufgabe1
-SWT hilft dabei, qualitativ hochwertige Software zu erstellen.
+SWT hilft dabei, qualitativ hochwertige Software zu erstellen. Denn Ingenieursprinzipien sind gut.
